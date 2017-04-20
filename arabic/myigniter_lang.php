@@ -1,0 +1,27 @@
+<?php defined('BASEPATH') or exit('No direct script access allowed');
+
+$lang['amazing_crud'] = 'قم بإنشاء لوحة تحكم لموقعك ونظام إدارة محتوى أو موقع تجارة إلكترونية فى ثواني';
+$lang['language'] = 'أختر اللغة';
+$lang['buy'] = 'شراء السكربت';
+$lang['try'] = 'تجربة السكربت';
+$lang['get_start'] = 'بدأ الإستخدام';
+$lang['feature'] = 'المميزات';
+$lang['crud_builder'] = 'إنشاء إضافة وتعديل وحذف وبحث بالجداول';
+$lang['crud_builder_desc'] = 'إنشاء لوحة تحكم للموقع فى ثواني من غير الحاجة لكتابة أكواد فقط ضغطة زر وكل شىء يكون جاهز';
+$lang['page_builder'] = 'إنشاء صفحات';
+$lang['page_builder_desc'] = 'قم بإنشاء صفحات لواجهة المستخدم وللوحة التحكم فى ثواني';
+$lang['modular_extension'] = 'نظام ميديولات HMVC';
+$lang['modular_extension_desc'] = 'تسطيب أى ميديول فى ثواني ومرونة فى تخصيص الكود';
+$lang['adminlte_theme'] = 'AdminLTE ثيم - يدعم العربية';
+$lang['adminlte_theme_desc'] = 'تم تصميم الثيم بواسطة عبد الله السعيد';
+$lang['last_login'] = 'تاريخ أخر دخول للموقع';
+$lang['profile'] = 'صفحة المستخدم';
+$lang['signup'] = 'حساب جديد';
+$lang['login'] = 'دخول';
+$lang['login_desc'] = 'قم بتسجيل الدخول للتجربة';
+$lang['logout'] = 'خروج';
+$lang['signin_using'] = 'تسجيل الدخول بإستخدام';
+$lang['register_new'] = 'إنشاء مستخدم جديد';
+$lang['or'] = 'أو';
+$lang['full_name'] = 'الإسم بالكامل';
+$lang['already_user'] = 'بالفعل لدي حساب على الموقع';
